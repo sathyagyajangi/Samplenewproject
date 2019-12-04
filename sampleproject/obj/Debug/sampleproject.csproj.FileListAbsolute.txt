@@ -1,0 +1,16 @@
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\sampleproject.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\sampleproject.pdb
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\WebDriver.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\shaik\source\repos\sampleproject\sampleproject\bin\Debug\WebDriver.xml
+C:\Users\shaik\source\repos\sampleproject\sampleproject\obj\Debug\sampleproject.csprojAssemblyReference.cache
+C:\Users\shaik\source\repos\sampleproject\sampleproject\obj\Debug\sampleproject.csproj.CoreCompileInputs.cache
+C:\Users\shaik\source\repos\sampleproject\sampleproject\obj\Debug\sampleproject.csproj.CopyComplete
+C:\Users\shaik\source\repos\sampleproject\sampleproject\obj\Debug\sampleproject.dll
+C:\Users\shaik\source\repos\sampleproject\sampleproject\obj\Debug\sampleproject.pdb
